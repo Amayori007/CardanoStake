@@ -4,5 +4,5 @@
 "discordId":"564566637408419840",
 "pool-list":"true",
 "poolMetaData":"https://raw.githubusercontent.com/Amayori007/CardanoStake/main/poolMetaData.json",
-"validation":""
+"validation":"https://raw.githubusercontent.com/Amayori007/CardanoStake/main/sjg-validation.json"
 }
